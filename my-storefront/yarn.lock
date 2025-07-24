@@ -380,9 +380,9 @@
     tslib "^2.8.0"
 
 "@headlessui/react@^2.2.0":
-  version "2.2.4"
-  resolved "https://registry.npmjs.org/@headlessui/react/-/react-2.2.4.tgz"
-  integrity sha512-lz+OGcAH1dK93rgSMzXmm1qKOJkBUqZf1L4M8TWLNplftQD3IkoEDdUFNfAn4ylsN6WOTVtWaLmvmaHOUk1dTA==
+  version "2.2.5"
+  resolved "https://registry.npmjs.org/@headlessui/react/-/react-2.2.5.tgz"
+  integrity sha512-h1+2Vu1yR5pp/fBcTnwVEW8Kb94Hbxp7MXZLORfDzvSrbmGgiTyaTZ4LI/tPNZnK8eDrYD9s9cMbjm5HS5otIQ==
   dependencies:
     "@floating-ui/react" "^0.26.16"
     "@react-aria/focus" "^3.20.2"
@@ -484,41 +484,41 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@medusajs/icons@2.8.7":
-  version "2.8.7"
-  resolved "https://registry.npmjs.org/@medusajs/icons/-/icons-2.8.7.tgz"
-  integrity sha512-zGkAokqWBNJ1PcTktCPSMT5spIIjv8Pba88BXvfcbblG5cUbMSvvJ2v/BRODMFejQ9NqlboIeP0fo/9RzLpPHg==
+"@medusajs/icons@2.8.8":
+  version "2.8.8"
+  resolved "https://registry.npmjs.org/@medusajs/icons/-/icons-2.8.8.tgz"
+  integrity sha512-9O7XkkSxsJ5OkpKypGy5C8CtMdbJ+xfcC8X7ZOi44UGlOdV0QhapD36cCnJsNwK4Ox+KXH2iKU5Wl5VQCmrzow==
 
 "@medusajs/js-sdk@latest":
-  version "2.8.7"
-  resolved "https://registry.npmjs.org/@medusajs/js-sdk/-/js-sdk-2.8.7.tgz"
-  integrity sha512-ZGYMQOM7GHuKtxOvJ+wgKyC/fzLlyMu5nij4hIWIf2osZy7d6dpvEglcV6w9B0UgSEADJh1SZ7a22HOJdjjJ9A==
+  version "2.8.8"
+  resolved "https://registry.npmjs.org/@medusajs/js-sdk/-/js-sdk-2.8.8.tgz"
+  integrity sha512-hFPWCo42faRiBlXCJXnwU5AKqdOAYFyZMvkPEzhV3nTytnY/bSm4qVDiGC/TmUMtaEftlNFz2ga5ZOuT4e9gEQ==
   dependencies:
-    "@medusajs/types" "2.8.7"
+    "@medusajs/types" "2.8.8"
     fetch-event-stream "^0.1.5"
     qs "^6.12.1"
 
-"@medusajs/types@2.8.7", "@medusajs/types@latest":
-  version "2.8.7"
-  resolved "https://registry.npmjs.org/@medusajs/types/-/types-2.8.7.tgz"
-  integrity sha512-8m/H9KkDUQz4YD+XkD/C63RfE/2elcdWf5G/KOK2QViTK0Jsd/Iw8Yy+T60pm0Lq/QQ925AfGH/Ji8UYNXjT8g==
+"@medusajs/types@2.8.8", "@medusajs/types@latest":
+  version "2.8.8"
+  resolved "https://registry.npmjs.org/@medusajs/types/-/types-2.8.8.tgz"
+  integrity sha512-rbOy+RRAC9T4ThjmkzUeDP3HfqNIbtUEFHaA7U5PBTIyhhdbIe3iZBRrFofv2tfkIO6SmBJA/h+LvJFL5+UcJA==
   dependencies:
     bignumber.js "^9.1.2"
 
 "@medusajs/ui-preset@latest":
-  version "2.8.7"
-  resolved "https://registry.npmjs.org/@medusajs/ui-preset/-/ui-preset-2.8.7.tgz"
-  integrity sha512-ro8BrYlqHh7iZvYKrxmJtLweJYYet+wYQQv0R3pyfxkkP0aQ09KDPo8yTwls11iuMC4cQHljekdaOyXtSR6ZiQ==
+  version "2.8.8"
+  resolved "https://registry.npmjs.org/@medusajs/ui-preset/-/ui-preset-2.8.8.tgz"
+  integrity sha512-TArKCObShQsd/1PJ6rL4VxST/KuKyucsOP24kQ4wORBOcIXAM9gwHq95NbZdoq/XOsg4rl+Em/01Y1i+684MOg==
   dependencies:
     "@tailwindcss/forms" "^0.5.3"
     tailwindcss-animate "^1.0.6"
 
 "@medusajs/ui@latest":
-  version "4.0.17"
-  resolved "https://registry.npmjs.org/@medusajs/ui/-/ui-4.0.17.tgz"
-  integrity sha512-N5KtZXvns13jDiCE3ZgZLINQnlECYLf4Q4GFdbRhCjAFKFBRGyyeNKX+Zo2wBUZA2Oi4kockdxFfsZfBHh/ZhA==
+  version "4.0.18"
+  resolved "https://registry.npmjs.org/@medusajs/ui/-/ui-4.0.18.tgz"
+  integrity sha512-QiIzYj1LqvMccAz1LkIMJAltEahj4LeqeRutvkon4+OjN4KcTNoowKsA4Q/yCeKtbiikTfVIWNtUpTN60DhvhA==
   dependencies:
-    "@medusajs/icons" "2.8.7"
+    "@medusajs/icons" "2.8.8"
     "@tanstack/react-table" "8.20.5"
     clsx "^1.2.1"
     copy-to-clipboard "^3.3.3"
@@ -3069,7 +3069,7 @@ async-function@^1.0.0:
   resolved "https://registry.npmjs.org/async-function/-/async-function-1.0.0.tgz"
   integrity sha512-hsU18Ae8CDTR6Kgu9DYf0EbCr/a5iGL0rytQDobUcdpYOKokk8LEjVphnXkDkgpi0wYVsqrXuP0bZxJaTqdgoA==
 
-autoprefixer@^10.4.2:
+autoprefixer@^10.4.21:
   version "10.4.21"
   resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.21.tgz"
   integrity sha512-O+A6LWV5LDHSJD3LjHYoNi4VLsj/Whi7k6zG12xTYaU4cQ8oxQGckXNX8cRHK5yOZ/ppVHe0ZBXGzSV9jXdVbQ==
@@ -5133,7 +5133,7 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.2.0:
   resolved "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
-postcss@^8.0.0, postcss@^8.1.0, postcss@^8.2.14, postcss@^8.4.21, postcss@^8.4.47, postcss@^8.4.8, postcss@>=8.0.9:
+postcss@^8.0.0, postcss@^8.1.0, postcss@^8.2.14, postcss@^8.4.21, postcss@^8.4.47, postcss@^8.5.6, postcss@>=8.0.9:
   version "8.5.6"
   resolved "https://registry.npmjs.org/postcss/-/postcss-8.5.6.tgz"
   integrity sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==
@@ -5968,7 +5968,7 @@ tailwindcss-radix@^2.8.0:
   resolved "https://registry.npmjs.org/tailwindcss-radix/-/tailwindcss-radix-2.9.0.tgz"
   integrity sha512-N49SnciSeRgLC+VK+Fu5VULNJIvJUvN7tUKF1kEHPXrS76WAlwrSVthCbJ9NUw0Cj/ptxs73pdVEdosomAN5Lg==
 
-tailwindcss@^3.0.23, tailwindcss@>=3.0.0, "tailwindcss@>=3.0.0 || >= 3.0.0-alpha.1 || >= 4.0.0-alpha.20 || >= 4.0.0-beta.1", "tailwindcss@>=3.0.0 || insiders":
+tailwindcss@^3.4.17, tailwindcss@>=3.0.0, "tailwindcss@>=3.0.0 || >= 3.0.0-alpha.1 || >= 4.0.0-alpha.20 || >= 4.0.0-beta.1", "tailwindcss@>=3.0.0 || insiders":
   version "3.4.17"
   resolved "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.4.17.tgz"
   integrity sha512-w33E2aCvSDP0tW9RZuNXadXlkHXqFzSkQew/aIa2i/Sj8fThxwovwlXHSPXTbAHwEIhBFXAedUhP2tueAKP8Og==
